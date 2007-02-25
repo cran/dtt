@@ -1,0 +1,13 @@
+097ca48ee141fe7d8b964d475e303572 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+a5af505d7e268567ce16dadc67639990 *R/dct.R
+4a1f0f99a6ca0c0283f696f4b78967c2 *R/dht.R
+a2cfb74ee9ec43a6a36d7efb983cee1a *R/dst.R
+85cc77079d424193f170c9a7852bbf45 *R/dtt.R
+68aaf032f1a0f2d7938ed95768c1b489 *R/mvdct.R
+8cc975fdaf2fc07cb4db419c37343c23 *R/mvdht.R
+61d782a4d4d0e6be80ba7f53a197de8a *R/mvdst.R
+54d005eaa90c8118502ba8ff83575a85 *R/mvdtt.R
+07ae2d65963087aaf8b1ec5e8d673c8e *man/dtt-package.Rd
+afd4dd734f3f0fb8ca11d04b3dfa27c4 *man/dtt.Rd
+784d59b01b7ff5b6f54377b3f497bbad *man/mvdtt.Rd
